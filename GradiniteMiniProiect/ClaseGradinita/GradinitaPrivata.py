@@ -1,0 +1,3 @@
+from GradinitaMiniProiect.ClaseGradinita import Gradinita
+
+class GradinitaPrivata
